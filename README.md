@@ -1,3 +1,9 @@
+# challenge-0 : surge link - narrow-fog.surge.sh
+verified contract link - https://rinkeby.etherscan.io/address/0x13bc184f99722e2fab7bb10735ade36d4fc98af5
+
+
+
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
